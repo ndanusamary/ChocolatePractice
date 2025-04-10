@@ -23,7 +23,7 @@ The dataset includes the following columns:
 
 ## 🔧 Tools & Technologies
 
-- Python 🐍  
+- Python 
 - Pandas for data manipulation  
 - Matplotlib & Seaborn for data visualization  
 - Visual Studio Code for development  
